@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  border: solid 5px rgb(106, 0, 0);
+  margin: 10px 300px;
+  padding: 30px 0;
+  background-color: rgb(97, 97, 97);
+}
+
+h1 {
+  border-bottom: 1px solid gray;
+}
+
+.infoTotal {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  padding-top: 30px;
+}
+
+#añadirtarea {
+  background-color: crimson;
+  color: white;
+}
